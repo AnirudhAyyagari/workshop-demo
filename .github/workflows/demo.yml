@@ -20,6 +20,7 @@ jobs:
           echo "Starting the build process..."
           echo "Compiling source code..."
           echo "Build completed successfully!"
+          echo "This is my new test"
 
   test:
     name: Test Job
